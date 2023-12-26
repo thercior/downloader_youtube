@@ -1,7 +1,7 @@
 
 # 🖥 YoutubeDownloader App
 
-#### 📝 **Descrição**
+## 📝 **Descrição**
 
 Este aplicativo foi construído e desenvolvido apenas em Python utilizando a biblioteca PyQt5, fornecendo uma interface gráfica (GUI) para realizar o download de vídeos do Youtube, ao inserir os seus links, de forma simples e eficiente.
 
