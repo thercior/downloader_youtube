@@ -1,5 +1,5 @@
 
-# YoutubeDownloader App 🖥
+# 🖥 YoutubeDownloader App
 
 #### 📝 **Descrição**
 
@@ -9,7 +9,7 @@ Na versão atual (v1.0), o aplicativo permite o usuário inserirem a URL do víd
 
 Além disso, o aplicativo contém uma área de visualização de retorno de respostas, que pode retornar o Vídeo e o local em que ele foi salvo ou em caso de erro retornar uma mensagem descrevendo o código e o erro que ocorreu.
 
-## Versão
+## 📉 Versão
 
 Atualmente, a aplicação encontra-se na versão 1.0 e oferece os seguintes recursos e funcionalidades:
 
@@ -18,7 +18,7 @@ Atualmente, a aplicação encontra-se na versão 1.0 e oferece os seguintes recu
 - Iniciar o download com um clique em um botão.
 - Visualização de vídeos baixos ou descrição do erro em caso de falha.
 
-## Stack utilizada
+## 🧰Stack utilizada
 
 **Front-end:** GUI PyQt5
 
@@ -54,7 +54,7 @@ Agora o projeto está configurado e pronto para rodar.
 
 ## 🖥 Execução e utilização
 
-#### **Executando**
+#### **📊 Executando**
 
 Para executar a aplicação, basta rodar no terminal, na pasta em que o projeto está localizado, o seguinte compando:
 
@@ -66,7 +66,7 @@ python app.py
 python3 app.py
 ```
 
-#### **Utilização**
+#### **💻Utilização**
 
 Para utilizar a aplicação, é só seguir os passos a seguir:
 
@@ -84,6 +84,6 @@ Para utilizar a aplicação, é só seguir os passos a seguir:
 
   ![1703626798485](image/README/1703626798485.png)
 
-## 🔗 Desenvolvedores / Colaboradores
+## 👨🏻‍💻Desenvolvedores / Colaboradores
 
 - [Thércio Rodrigues](https://www.github.com/thercior)
