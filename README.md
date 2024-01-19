@@ -1,4 +1,3 @@
-
 # 🖥 YoutubeDownloader App
 
 ## 📝 **Descrição**
@@ -30,11 +29,9 @@ Atualmente, a aplicação encontra-se na versão 1.0 e oferece os seguintes recu
 
 Antes de instalar as dependências, é necessário instalar e ativar o ambiente virtual do seu projeto. Para isto:
 
-
 * No terminal, vá para a pasta onde o projeto foi baixado e execute o comando abaixo:
 
-    `python -m venv venv`
-
+  `python -m venv venv`
 * Será criado uma pasta com o nome venv. Para ativar será necessário fazer o seguinte comando:
 
 ```bash
@@ -47,7 +44,7 @@ source venv/bin/activate # para Linux
 Instale as dependências ``PyQt5`` e ``PyQt5`` conforme abaixo:
 
 ```bash
-  pip install PyQt5 pytube
+  pip install -r requirements.txt
 ```
 
 Agora o projeto está configurado e pronto para rodar.
