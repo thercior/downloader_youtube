@@ -67,7 +67,7 @@ class YoutubeDownloader(QWidget):
         if url and save_path:
             try:
                 youtube = YouTube(url)
-                video = youtube.streams.filter(progressive=True, file_extension='mp4').first()
+                video = youtube.streams.filter(progressive=True, file_extension='mp4')[1] # Assim vem vídeo qualidade melhor
                 video.download(save_path)
                 
                 # Adiciona o status de download à área de visualização
